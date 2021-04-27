@@ -1,0 +1,773 @@
+#
+# Results on Tuesday March 30 2021 21:00:00 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0
+# Design number was non-random = 0
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. age.
+# 14. sex.
+# 15. L2.
+# 16. dom_hand.
+# 17. Comments.
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,0,0,welcome,NULL,PennController,0,_Trial_,Start,1617137860815,18,weiblich,Ja,rechte Hand,NULL
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,0,0,welcome,NULL,DropDown,language,Selected,Ja,1617137880581,18,weiblich,Ja,rechte Hand,0
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,0,0,welcome,NULL,PennController,0,_Trial_,End,1617137881170,18,weiblich,Ja,rechte Hand,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1617137881175,NULL
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1617137891422,NULL
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,2,0,practice,NULL,PennController,5,_Trial_,Start,1617137891426,NULL
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,2,0,practice,NULL,Key,after_ctxt1,PressedKey, ,1617137892401,Wait success
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,2,0,practice,NULL,Key,after_ctxt2,PressedKey, ,1617137893243,Wait success
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,2,0,practice,NULL,Key,after_ctxt22,PressedKey, ,1617137894222,Wait success
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,2,0,practice,NULL,PennController,5,_Trial_,End,1617137909524,NULL
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,3,0,practice,NULL,PennController,6,_Trial_,Start,1617137909527,NULL
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,3,0,practice,NULL,Key,after_ctxt1,PressedKey, ,1617137910688,Wait success
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,3,0,practice,NULL,Key,after_ctxt2,PressedKey, ,1617137911489,Wait success
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,3,0,practice,NULL,Key,after_ctxt22,PressedKey, ,1617137937406,Wait success
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,3,0,practice,NULL,PennController,6,_Trial_,End,1617137939650,NULL
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,4,0,practice,NULL,PennController,7,_Trial_,Start,1617137939652,NULL
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,4,0,practice,NULL,Key,after_ctxt1,PressedKey, ,1617137940263,Wait success
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,4,0,practice,NULL,Key,after_ctxt2,PressedKey, ,1617137940909,Wait success
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,4,0,practice,NULL,Key,after_ctxt22,PressedKey, ,1617137941932,Wait success
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,4,0,practice,NULL,PennController,7,_Trial_,End,1617137943398,NULL
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,17,0,end_practice,NULL,PennController,2,_Trial_,Start,1617137943400,NULL
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,17,0,end_practice,NULL,Key,end_pract,PressedKey, ,1617137943998,Wait success
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,17,0,end_practice,NULL,PennController,2,_Trial_,End,1617137943999,NULL
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,5,0,experiment_trial,NULL,PennController,8,_Trial_,Start,1617137944000,NULL
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,5,0,experiment_trial,NULL,Key,after_ctxt1,PressedKey, ,1617137944900,Wait success
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,5,0,experiment_trial,NULL,Key,after_ctxt2,PressedKey, ,1617137945729,Wait success
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,5,0,experiment_trial,NULL,Key,after_ctxt22,PressedKey, ,1617137946750,Wait success
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,5,0,experiment_trial,NULL,PennController,8,_Trial_,End,1617137949373,NULL
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,6,0,experiment_trial,NULL,PennController,9,_Trial_,Start,1617137949376,NULL
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,6,0,experiment_trial,NULL,Key,after_ctxt1,PressedKey, ,1617137950113,Wait success
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,6,0,experiment_trial,NULL,Key,after_ctxt2,PressedKey, ,1617137950951,Wait success
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,6,0,experiment_trial,NULL,Key,after_ctxt22,PressedKey, ,1617137951668,Wait success
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,6,0,experiment_trial,NULL,PennController,9,_Trial_,End,1617137954126,NULL
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,7,0,experiment_trial,NULL,PennController,10,_Trial_,Start,1617137954131,NULL
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,7,0,experiment_trial,NULL,Key,after_ctxt1,PressedKey, ,1617137955011,Wait success
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,7,0,experiment_trial,NULL,Key,after_ctxt2,PressedKey, ,1617137955803,Wait success
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,7,0,experiment_trial,NULL,Key,after_ctxt22,PressedKey, ,1617137956847,Wait success
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,7,0,experiment_trial,NULL,PennController,10,_Trial_,End,1617137958097,NULL
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,8,0,experiment_trial,NULL,PennController,11,_Trial_,Start,1617137958100,NULL
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,8,0,experiment_trial,NULL,Key,after_ctxt1,PressedKey, ,1617137958821,Wait success
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,8,0,experiment_trial,NULL,Key,after_ctxt2,PressedKey, ,1617137959444,Wait success
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,8,0,experiment_trial,NULL,Key,after_ctxt22,PressedKey, ,1617137960336,Wait success
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,8,0,experiment_trial,NULL,PennController,11,_Trial_,End,1617137961877,NULL
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,9,0,experiment_trial,NULL,PennController,12,_Trial_,Start,1617137961879,NULL
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,9,0,experiment_trial,NULL,Key,after_ctxt1,PressedKey, ,1617137962592,Wait success
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,9,0,experiment_trial,NULL,Key,after_ctxt2,PressedKey, ,1617137963118,Wait success
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,9,0,experiment_trial,NULL,Key,after_ctxt22,PressedKey, ,1617137963669,Wait success
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,9,0,experiment_trial,NULL,PennController,12,_Trial_,End,1617137965585,NULL
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,10,0,experiment_trial,NULL,PennController,13,_Trial_,Start,1617137965587,NULL
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,10,0,experiment_trial,NULL,Key,after_ctxt1,PressedKey, ,1617137966362,Wait success
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,10,0,experiment_trial,NULL,Key,after_ctxt2,PressedKey, ,1617137967239,Wait success
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,10,0,experiment_trial,NULL,Key,after_ctxt22,PressedKey, ,1617137967931,Wait success
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,10,0,experiment_trial,NULL,PennController,13,_Trial_,End,1617137968959,NULL
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,11,0,experiment_trial,NULL,PennController,14,_Trial_,Start,1617137968961,NULL
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,11,0,experiment_trial,NULL,Key,after_ctxt1,PressedKey, ,1617137970302,Wait success
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,11,0,experiment_trial,NULL,Key,after_ctxt2,PressedKey, ,1617137970918,Wait success
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,11,0,experiment_trial,NULL,Key,after_ctxt22,PressedKey, ,1617137971861,Wait success
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,11,0,experiment_trial,NULL,PennController,14,_Trial_,End,1617137974960,NULL
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,12,0,experiment_trial,NULL,PennController,15,_Trial_,Start,1617137974961,NULL
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,12,0,experiment_trial,NULL,Key,after_ctxt1,PressedKey, ,1617137975591,Wait success
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,12,0,experiment_trial,NULL,Key,after_ctxt2,PressedKey, ,1617137976293,Wait success
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,12,0,experiment_trial,NULL,Key,after_ctxt22,PressedKey, ,1617137977090,Wait success
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,12,0,experiment_trial,NULL,PennController,15,_Trial_,End,1617137978389,NULL
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,13,0,experiment_trial,NULL,PennController,16,_Trial_,Start,1617137978392,NULL
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,13,0,experiment_trial,NULL,Key,after_ctxt1,PressedKey, ,1617137979438,Wait success
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,13,0,experiment_trial,NULL,Key,after_ctxt2,PressedKey, ,1617137980115,Wait success
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,13,0,experiment_trial,NULL,Key,after_ctxt22,PressedKey, ,1617137980760,Wait success
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,13,0,experiment_trial,NULL,PennController,16,_Trial_,End,1617137981918,NULL
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,14,0,experiment_trial,NULL,PennController,17,_Trial_,Start,1617137981921,NULL
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,14,0,experiment_trial,NULL,Key,after_ctxt1,PressedKey, ,1617137982621,Wait success
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,14,0,experiment_trial,NULL,Key,after_ctxt2,PressedKey, ,1617137983311,Wait success
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,14,0,experiment_trial,NULL,Key,after_ctxt22,PressedKey, ,1617137983989,Wait success
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,14,0,experiment_trial,NULL,PennController,17,_Trial_,End,1617137986021,NULL
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,15,0,experiment_trial,NULL,PennController,18,_Trial_,Start,1617137986023,NULL
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,15,0,experiment_trial,NULL,Key,after_ctxt1,PressedKey, ,1617137986747,Wait success
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,15,0,experiment_trial,NULL,Key,after_ctxt2,PressedKey, ,1617137987318,Wait success
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,15,0,experiment_trial,NULL,Key,after_ctxt22,PressedKey, ,1617137987920,Wait success
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,15,0,experiment_trial,NULL,PennController,18,_Trial_,End,1617137989798,NULL
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,16,0,experiment_trial,NULL,PennController,19,_Trial_,Start,1617137989801,NULL
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,16,0,experiment_trial,NULL,Key,after_ctxt1,PressedKey, ,1617137990650,Wait success
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,16,0,experiment_trial,NULL,Key,after_ctxt2,PressedKey, ,1617137991395,Wait success
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,16,0,experiment_trial,NULL,Key,after_ctxt22,PressedKey, ,1617137992047,Wait success
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,16,0,experiment_trial,NULL,PennController,19,_Trial_,End,1617137994487,NULL
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,19,0,post-ques,NULL,PennController,4,_Trial_,Start,1617137994489,NULL
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,19,0,post-ques,NULL,TextInput,notice,First,,1617137994680, 
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,19,0,post-ques,NULL,TextInput,about,First,,1617137997654,f
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,19,0,post-ques,NULL,TextInput,hard,First,,1617137998692,f
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,19,0,post-ques,NULL,TextInput,strategy,First,,1617137999674,f
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,19,0,post-ques,NULL,TextInput,notice,Final, f,1617138000276,NULL
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,19,0,post-ques,NULL,TextInput,about,Final,f,1617138000276,NULL
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,19,0,post-ques,NULL,TextInput,hard,Final,f,1617138000277,NULL
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,19,0,post-ques,NULL,TextInput,strategy,Final,f,1617138000277,NULL
+1617138001,258b3dce68deec7c2d7f84913eda9534,PennController,19,0,post-ques,NULL,PennController,4,_Trial_,End,1617138000278,NULL
+#
+# Results on Wednesday March 31 2021 06:53:48 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:85.0) Gecko/20100101 Firefox/85.0
+# Design number was non-random = 1
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. age.
+# 14. sex.
+# 15. L2.
+# 16. dom_hand.
+# 17. Comments.
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,0,0,welcome,NULL,PennController,0,_Trial_,Start,1617173211438,25,weiblich,Ja,rechte Hand,NULL
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,0,0,welcome,NULL,DropDown,language,Selected,Ja,1617173295438,25,weiblich,Ja,rechte Hand,0
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,0,0,welcome,NULL,PennController,0,_Trial_,End,1617173299543,25,weiblich,Ja,rechte Hand,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1617173299549,NULL
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1617173441282,NULL
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,2,0,practice,NULL,PennController,5,_Trial_,Start,1617173441286,NULL
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,2,0,practice,NULL,Key,after_ctxt1,PressedKey, ,1617173449780,Wait success
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,2,0,practice,NULL,Key,after_ctxt2,PressedKey, ,1617173453432,Wait success
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,2,0,practice,NULL,Key,after_ctxt22,PressedKey, ,1617173455376,Wait success
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,2,0,practice,NULL,PennController,5,_Trial_,End,1617173483740,NULL
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,3,0,practice,NULL,PennController,6,_Trial_,Start,1617173483742,NULL
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,3,0,practice,NULL,Key,after_ctxt1,PressedKey, ,1617173485845,Wait success
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,3,0,practice,NULL,Key,after_ctxt2,PressedKey, ,1617173487963,Wait success
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,3,0,practice,NULL,Key,after_ctxt22,PressedKey, ,1617173493360,Wait success
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,3,0,practice,NULL,PennController,6,_Trial_,End,1617173496961,NULL
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,4,0,practice,NULL,PennController,7,_Trial_,Start,1617173496963,NULL
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,4,0,practice,NULL,Key,after_ctxt1,PressedKey, ,1617173500153,Wait success
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,4,0,practice,NULL,Key,after_ctxt2,PressedKey, ,1617173501513,Wait success
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,4,0,practice,NULL,Key,after_ctxt22,PressedKey, ,1617173506713,Wait success
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,4,0,practice,NULL,PennController,7,_Trial_,End,1617173510060,NULL
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,17,0,end_practice,NULL,PennController,2,_Trial_,Start,1617173510062,NULL
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,17,0,end_practice,NULL,Key,end_pract,PressedKey, ,1617173512915,Wait success
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,17,0,end_practice,NULL,PennController,2,_Trial_,End,1617173512915,NULL
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,5,0,experiment_trial,NULL,PennController,8,_Trial_,Start,1617173512919,NULL
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,5,0,experiment_trial,NULL,Key,after_ctxt1,PressedKey, ,1617173516026,Wait success
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,5,0,experiment_trial,NULL,Key,after_ctxt2,PressedKey, ,1617173517842,Wait success
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,5,0,experiment_trial,NULL,Key,after_ctxt22,PressedKey, ,1617173519954,Wait success
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,5,0,experiment_trial,NULL,PennController,8,_Trial_,End,1617173526219,NULL
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,6,0,experiment_trial,NULL,PennController,9,_Trial_,Start,1617173526222,NULL
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,6,0,experiment_trial,NULL,Key,after_ctxt1,PressedKey, ,1617173527891,Wait success
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,6,0,experiment_trial,NULL,Key,after_ctxt2,PressedKey, ,1617173529642,Wait success
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,6,0,experiment_trial,NULL,Key,after_ctxt22,PressedKey, ,1617173531146,Wait success
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,6,0,experiment_trial,NULL,PennController,9,_Trial_,End,1617173535648,NULL
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,7,0,experiment_trial,NULL,PennController,10,_Trial_,Start,1617173535653,NULL
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,7,0,experiment_trial,NULL,Key,after_ctxt1,PressedKey, ,1617173537196,Wait success
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,7,0,experiment_trial,NULL,Key,after_ctxt2,PressedKey, ,1617173538722,Wait success
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,7,0,experiment_trial,NULL,Key,after_ctxt22,PressedKey, ,1617173540314,Wait success
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,7,0,experiment_trial,NULL,PennController,10,_Trial_,End,1617173543695,NULL
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,8,0,experiment_trial,NULL,PennController,11,_Trial_,Start,1617173543698,NULL
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,8,0,experiment_trial,NULL,Key,after_ctxt1,PressedKey, ,1617173545563,Wait success
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,8,0,experiment_trial,NULL,Key,after_ctxt2,PressedKey, ,1617173547346,Wait success
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,8,0,experiment_trial,NULL,Key,after_ctxt22,PressedKey, ,1617173548971,Wait success
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,8,0,experiment_trial,NULL,PennController,11,_Trial_,End,1617173551098,NULL
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,9,0,experiment_trial,NULL,PennController,12,_Trial_,Start,1617173551102,NULL
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,9,0,experiment_trial,NULL,Key,after_ctxt1,PressedKey, ,1617173553178,Wait success
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,9,0,experiment_trial,NULL,Key,after_ctxt2,PressedKey, ,1617173555163,Wait success
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,9,0,experiment_trial,NULL,Key,after_ctxt22,PressedKey, ,1617173556915,Wait success
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,9,0,experiment_trial,NULL,PennController,12,_Trial_,End,1617173559074,NULL
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,10,0,experiment_trial,NULL,PennController,13,_Trial_,Start,1617173559075,NULL
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,10,0,experiment_trial,NULL,Key,after_ctxt1,PressedKey, ,1617173561020,Wait success
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,10,0,experiment_trial,NULL,Key,after_ctxt2,PressedKey, ,1617173563499,Wait success
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,10,0,experiment_trial,NULL,Key,after_ctxt22,PressedKey, ,1617173565019,Wait success
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,10,0,experiment_trial,NULL,PennController,13,_Trial_,End,1617173567483,NULL
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,11,0,experiment_trial,NULL,PennController,14,_Trial_,Start,1617173567486,NULL
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,11,0,experiment_trial,NULL,Key,after_ctxt1,PressedKey, ,1617173569156,Wait success
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,11,0,experiment_trial,NULL,Key,after_ctxt2,PressedKey, ,1617173570507,Wait success
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,11,0,experiment_trial,NULL,Key,after_ctxt22,PressedKey, ,1617173572379,Wait success
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,11,0,experiment_trial,NULL,PennController,14,_Trial_,End,1617173574894,NULL
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,12,0,experiment_trial,NULL,PennController,15,_Trial_,Start,1617173574895,NULL
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,12,0,experiment_trial,NULL,Key,after_ctxt1,PressedKey, ,1617173576670,Wait success
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,12,0,experiment_trial,NULL,Key,after_ctxt2,PressedKey, ,1617173577811,Wait success
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,12,0,experiment_trial,NULL,Key,after_ctxt22,PressedKey, ,1617173579251,Wait success
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,12,0,experiment_trial,NULL,PennController,15,_Trial_,End,1617173582127,NULL
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,13,0,experiment_trial,NULL,PennController,16,_Trial_,Start,1617173582130,NULL
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,13,0,experiment_trial,NULL,Key,after_ctxt1,PressedKey, ,1617173584101,Wait success
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,13,0,experiment_trial,NULL,Key,after_ctxt2,PressedKey, ,1617173585684,Wait success
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,13,0,experiment_trial,NULL,Key,after_ctxt22,PressedKey, ,1617173587172,Wait success
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,13,0,experiment_trial,NULL,PennController,16,_Trial_,End,1617173589850,NULL
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,14,0,experiment_trial,NULL,PennController,17,_Trial_,Start,1617173589852,NULL
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,14,0,experiment_trial,NULL,Key,after_ctxt1,PressedKey, ,1617173592596,Wait success
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,14,0,experiment_trial,NULL,Key,after_ctxt2,PressedKey, ,1617173594436,Wait success
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,14,0,experiment_trial,NULL,Key,after_ctxt22,PressedKey, ,1617173595972,Wait success
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,14,0,experiment_trial,NULL,PennController,17,_Trial_,End,1617173598258,NULL
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,15,0,experiment_trial,NULL,PennController,18,_Trial_,Start,1617173598260,NULL
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,15,0,experiment_trial,NULL,Key,after_ctxt1,PressedKey, ,1617173600188,Wait success
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,15,0,experiment_trial,NULL,Key,after_ctxt2,PressedKey, ,1617173601500,Wait success
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,15,0,experiment_trial,NULL,Key,after_ctxt22,PressedKey, ,1617173602692,Wait success
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,15,0,experiment_trial,NULL,PennController,18,_Trial_,End,1617173605106,NULL
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,16,0,experiment_trial,NULL,PennController,19,_Trial_,Start,1617173605109,NULL
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,16,0,experiment_trial,NULL,Key,after_ctxt1,PressedKey, ,1617173607181,Wait success
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,16,0,experiment_trial,NULL,Key,after_ctxt2,PressedKey, ,1617173608708,Wait success
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,16,0,experiment_trial,NULL,Key,after_ctxt22,PressedKey, ,1617173610004,Wait success
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,16,0,experiment_trial,NULL,PennController,19,_Trial_,End,1617173612790,NULL
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,19,0,post-ques,NULL,PennController,4,_Trial_,Start,1617173612792,NULL
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,19,0,post-ques,NULL,TextInput,notice,Final,,1617173624037,NULL
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,19,0,post-ques,NULL,TextInput,about,Final,,1617173624037,NULL
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,19,0,post-ques,NULL,TextInput,hard,Final,,1617173624037,NULL
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,19,0,post-ques,NULL,TextInput,strategy,Final,,1617173624038,NULL
+1617173629,28ecb489b1d718d7de1aa5bccf66d977,PennController,19,0,post-ques,NULL,PennController,4,_Trial_,End,1617173624038,NULL
+#
+# Results on Wednesday March 31 2021 07:45:31 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:85.0) Gecko/20100101 Firefox/85.0
+# Design number was non-random = 2
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. age.
+# 14. sex.
+# 15. L2.
+# 16. dom_hand.
+# 17. Comments.
+1617176731,28ecb489b1d718d7de1aa5bccf66d977,PennController,0,0,welcome,NULL,PennController,0,_Trial_,Start,1617176378542,undefined,undefined,undefined,undefined,NULL
+1617176731,28ecb489b1d718d7de1aa5bccf66d977,PennController,0,0,welcome,NULL,PennController,0,_Trial_,End,1617176382479,undefined,undefined,undefined,undefined,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1617176731,28ecb489b1d718d7de1aa5bccf66d977,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1617176382487,NULL
+1617176731,28ecb489b1d718d7de1aa5bccf66d977,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1617176389659,NULL
+1617176731,28ecb489b1d718d7de1aa5bccf66d977,PennController,2,0,practice,NULL,PennController,5,_Trial_,Start,1617176389665,NULL
+1617176731,28ecb489b1d718d7de1aa5bccf66d977,PennController,2,0,practice,NULL,Key,after_ctxt1,PressedKey, ,1617176391926,Wait success
+1617176731,28ecb489b1d718d7de1aa5bccf66d977,PennController,2,0,practice,NULL,Key,after_ctxt2,PressedKey, ,1617176396521,Wait success
+1617176731,28ecb489b1d718d7de1aa5bccf66d977,PennController,2,0,practice,NULL,Key,after_ctxt22,PressedKey, ,1617176399299,Wait success
+1617176731,28ecb489b1d718d7de1aa5bccf66d977,PennController,2,0,practice,NULL,PennController,5,_Trial_,End,1617176403620,NULL
+1617176731,28ecb489b1d718d7de1aa5bccf66d977,PennController,3,0,practice,NULL,PennController,6,_Trial_,Start,1617176403624,NULL
+1617176731,28ecb489b1d718d7de1aa5bccf66d977,PennController,3,0,practice,NULL,Key,after_ctxt1,PressedKey, ,1617176404946,Wait success
+1617176731,28ecb489b1d718d7de1aa5bccf66d977,PennController,3,0,practice,NULL,Key,after_ctxt2,PressedKey, ,1617176405970,Wait success
+1617176731,28ecb489b1d718d7de1aa5bccf66d977,PennController,3,0,practice,NULL,Key,after_ctxt22,PressedKey, ,1617176407210,Wait success
+1617176731,28ecb489b1d718d7de1aa5bccf66d977,PennController,3,0,practice,NULL,PennController,6,_Trial_,End,1617176416672,NULL
+1617176731,28ecb489b1d718d7de1aa5bccf66d977,PennController,4,0,practice,NULL,PennController,7,_Trial_,Start,1617176416675,NULL
+1617176731,28ecb489b1d718d7de1aa5bccf66d977,PennController,4,0,practice,NULL,Key,after_ctxt1,PressedKey, ,1617176420618,Wait success
+1617176731,28ecb489b1d718d7de1aa5bccf66d977,PennController,4,0,practice,NULL,Key,after_ctxt2,PressedKey, ,1617176423016,Wait success
+1617176731,28ecb489b1d718d7de1aa5bccf66d977,PennController,4,0,practice,NULL,Key,after_ctxt22,PressedKey, ,1617176430861,Wait success
+1617176731,28ecb489b1d718d7de1aa5bccf66d977,PennController,4,0,practice,NULL,PennController,7,_Trial_,End,1617176434569,NULL
+1617176731,28ecb489b1d718d7de1aa5bccf66d977,PennController,17,0,end_practice,NULL,PennController,2,_Trial_,Start,1617176434572,NULL
+1617176731,28ecb489b1d718d7de1aa5bccf66d977,PennController,17,0,end_practice,NULL,Key,end_pract,PressedKey, ,1617176437602,Wait success
+1617176731,28ecb489b1d718d7de1aa5bccf66d977,PennController,17,0,end_practice,NULL,PennController,2,_Trial_,End,1617176437603,NULL
+1617176731,28ecb489b1d718d7de1aa5bccf66d977,PennController,5,0,experiment_trial,NULL,PennController,8,_Trial_,Start,1617176437606,NULL
+1617176731,28ecb489b1d718d7de1aa5bccf66d977,PennController,5,0,experiment_trial,NULL,Key,after_ctxt1,PressedKey, ,1617176440522,Wait success
+1617176731,28ecb489b1d718d7de1aa5bccf66d977,PennController,5,0,experiment_trial,NULL,Key,after_ctxt2,PressedKey, ,1617176442563,Wait success
+1617176731,28ecb489b1d718d7de1aa5bccf66d977,PennController,5,0,experiment_trial,NULL,Key,after_ctxt22,PressedKey, ,1617176445027,Wait success
+1617176731,28ecb489b1d718d7de1aa5bccf66d977,PennController,5,0,experiment_trial,NULL,PennController,8,_Trial_,End,1617176461142,NULL
+1617176731,28ecb489b1d718d7de1aa5bccf66d977,PennController,6,0,experiment_trial,NULL,PennController,9,_Trial_,Start,1617176461147,NULL
+1617176731,28ecb489b1d718d7de1aa5bccf66d977,PennController,6,0,experiment_trial,NULL,Key,after_ctxt1,PressedKey, ,1617176462228,Wait success
+1617176731,28ecb489b1d718d7de1aa5bccf66d977,PennController,6,0,experiment_trial,NULL,Key,after_ctxt2,PressedKey, ,1617176463100,Wait success
+1617176731,28ecb489b1d718d7de1aa5bccf66d977,PennController,6,0,experiment_trial,NULL,Key,after_ctxt22,PressedKey, ,1617176463940,Wait success
+1617176731,28ecb489b1d718d7de1aa5bccf66d977,PennController,6,0,experiment_trial,NULL,PennController,9,_Trial_,End,1617176470650,NULL
+1617176731,28ecb489b1d718d7de1aa5bccf66d977,PennController,7,0,experiment_trial,NULL,PennController,10,_Trial_,Start,1617176470651,NULL
+1617176731,28ecb489b1d718d7de1aa5bccf66d977,PennController,7,0,experiment_trial,NULL,PennController,10,_Trial_,End,1617176470654,NULL
+1617176731,28ecb489b1d718d7de1aa5bccf66d977,PennController,8,0,experiment_trial,NULL,PennController,11,_Trial_,Start,1617176470657,NULL
+1617176731,28ecb489b1d718d7de1aa5bccf66d977,PennController,8,0,experiment_trial,NULL,PennController,11,_Trial_,End,1617176470668,NULL
+1617176731,28ecb489b1d718d7de1aa5bccf66d977,PennController,9,0,experiment_trial,NULL,PennController,12,_Trial_,Start,1617176470673,NULL
+1617176731,28ecb489b1d718d7de1aa5bccf66d977,PennController,9,0,experiment_trial,NULL,PennController,12,_Trial_,End,1617176470689,NULL
+1617176731,28ecb489b1d718d7de1aa5bccf66d977,PennController,10,0,experiment_trial,NULL,PennController,13,_Trial_,Start,1617176470693,NULL
+1617176731,28ecb489b1d718d7de1aa5bccf66d977,PennController,10,0,experiment_trial,NULL,PennController,13,_Trial_,End,1617176470699,NULL
+1617176731,28ecb489b1d718d7de1aa5bccf66d977,PennController,11,0,experiment_trial,NULL,PennController,14,_Trial_,Start,1617176470702,NULL
+1617176731,28ecb489b1d718d7de1aa5bccf66d977,PennController,11,0,experiment_trial,NULL,PennController,14,_Trial_,End,1617176470714,NULL
+1617176731,28ecb489b1d718d7de1aa5bccf66d977,PennController,12,0,experiment_trial,NULL,PennController,15,_Trial_,Start,1617176470718,NULL
+1617176731,28ecb489b1d718d7de1aa5bccf66d977,PennController,12,0,experiment_trial,NULL,PennController,15,_Trial_,End,1617176470728,NULL
+1617176731,28ecb489b1d718d7de1aa5bccf66d977,PennController,13,0,experiment_trial,NULL,PennController,16,_Trial_,Start,1617176470730,NULL
+1617176731,28ecb489b1d718d7de1aa5bccf66d977,PennController,13,0,experiment_trial,NULL,PennController,16,_Trial_,End,1617176470739,NULL
+1617176731,28ecb489b1d718d7de1aa5bccf66d977,PennController,14,0,experiment_trial,NULL,PennController,17,_Trial_,Start,1617176470742,NULL
+1617176731,28ecb489b1d718d7de1aa5bccf66d977,PennController,14,0,experiment_trial,NULL,PennController,17,_Trial_,End,1617176470763,NULL
+1617176731,28ecb489b1d718d7de1aa5bccf66d977,PennController,15,0,experiment_trial,NULL,PennController,18,_Trial_,Start,1617176470767,NULL
+1617176731,28ecb489b1d718d7de1aa5bccf66d977,PennController,15,0,experiment_trial,NULL,PennController,18,_Trial_,End,1617176470776,NULL
+1617176731,28ecb489b1d718d7de1aa5bccf66d977,PennController,16,0,experiment_trial,NULL,PennController,19,_Trial_,Start,1617176470777,NULL
+1617176731,28ecb489b1d718d7de1aa5bccf66d977,PennController,16,0,experiment_trial,NULL,PennController,19,_Trial_,End,1617176470783,NULL
+1617176731,28ecb489b1d718d7de1aa5bccf66d977,PennController,19,0,post-ques,NULL,PennController,4,_Trial_,Start,1617176470786,NULL
+1617176731,28ecb489b1d718d7de1aa5bccf66d977,PennController,19,0,post-ques,NULL,TextInput,notice,Final,,1617176731053,NULL
+1617176731,28ecb489b1d718d7de1aa5bccf66d977,PennController,19,0,post-ques,NULL,TextInput,about,Final,,1617176731054,NULL
+1617176731,28ecb489b1d718d7de1aa5bccf66d977,PennController,19,0,post-ques,NULL,TextInput,hard,Final,,1617176731055,NULL
+1617176731,28ecb489b1d718d7de1aa5bccf66d977,PennController,19,0,post-ques,NULL,TextInput,strategy,Final,,1617176731055,NULL
+1617176731,28ecb489b1d718d7de1aa5bccf66d977,PennController,19,0,post-ques,NULL,PennController,4,_Trial_,End,1617176731055,NULL
+#
+# Results on Wednesday March 31 2021 08:03:17 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0
+# Design number was non-random = 2
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. age.
+# 14. sex.
+# 15. L2.
+# 16. dom_hand.
+# 17. Comments.
+1617177798,258b3dce68deec7c2d7f84913eda9534,PennController,0,0,welcome,NULL,PennController,0,_Trial_,Start,1617176460516,18,m&auml;nnlich,Ja,linke Hand,NULL
+1617177798,258b3dce68deec7c2d7f84913eda9534,PennController,0,0,welcome,NULL,DropDown,language,Selected,Ja,1617176465808,18,m&auml;nnlich,Ja,linke Hand,0
+1617177798,258b3dce68deec7c2d7f84913eda9534,PennController,0,0,welcome,NULL,PennController,0,_Trial_,End,1617177752488,18,m&auml;nnlich,Ja,linke Hand,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1617177798,258b3dce68deec7c2d7f84913eda9534,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1617177752495,NULL
+1617177798,258b3dce68deec7c2d7f84913eda9534,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1617177759970,NULL
+1617177798,258b3dce68deec7c2d7f84913eda9534,PennController,2,0,practice,NULL,PennController,5,_Trial_,Start,1617177759980,NULL
+1617177798,258b3dce68deec7c2d7f84913eda9534,PennController,2,0,practice,NULL,Key,after_ctxt1,PressedKey, ,1617177761397,Wait success
+1617177798,258b3dce68deec7c2d7f84913eda9534,PennController,2,0,practice,NULL,Key,after_ctxt2,PressedKey, ,1617177762486,Wait success
+1617177798,258b3dce68deec7c2d7f84913eda9534,PennController,2,0,practice,NULL,Key,after_ctxt22,PressedKey, ,1617177764027,Wait success
+1617177798,258b3dce68deec7c2d7f84913eda9534,PennController,2,0,practice,NULL,PennController,5,_Trial_,End,1617177767135,NULL
+1617177798,258b3dce68deec7c2d7f84913eda9534,PennController,3,0,practice,NULL,PennController,6,_Trial_,Start,1617177767138,NULL
+1617177798,258b3dce68deec7c2d7f84913eda9534,PennController,3,0,practice,NULL,Key,after_ctxt1,PressedKey, ,1617177768962,Wait success
+1617177798,258b3dce68deec7c2d7f84913eda9534,PennController,3,0,practice,NULL,Key,after_ctxt2,PressedKey, ,1617177769503,Wait success
+1617177798,258b3dce68deec7c2d7f84913eda9534,PennController,3,0,practice,NULL,Key,after_ctxt22,PressedKey, ,1617177770329,Wait success
+1617177798,258b3dce68deec7c2d7f84913eda9534,PennController,3,0,practice,NULL,PennController,6,_Trial_,End,1617177783556,NULL
+1617177798,258b3dce68deec7c2d7f84913eda9534,PennController,4,0,practice,NULL,PennController,7,_Trial_,Start,1617177783559,NULL
+1617177798,258b3dce68deec7c2d7f84913eda9534,PennController,4,0,practice,NULL,PennController,7,_Trial_,End,1617177790144,NULL
+1617177798,258b3dce68deec7c2d7f84913eda9534,PennController,17,0,end_practice,NULL,PennController,2,_Trial_,Start,1617177790147,NULL
+1617177798,258b3dce68deec7c2d7f84913eda9534,PennController,17,0,end_practice,NULL,PennController,2,_Trial_,End,1617177790166,NULL
+1617177798,258b3dce68deec7c2d7f84913eda9534,PennController,5,0,experiment_trial,NULL,PennController,8,_Trial_,Start,1617177790169,NULL
+1617177798,258b3dce68deec7c2d7f84913eda9534,PennController,5,0,experiment_trial,NULL,PennController,8,_Trial_,End,1617177790179,NULL
+1617177798,258b3dce68deec7c2d7f84913eda9534,PennController,6,0,experiment_trial,NULL,PennController,9,_Trial_,Start,1617177790184,NULL
+1617177798,258b3dce68deec7c2d7f84913eda9534,PennController,6,0,experiment_trial,NULL,PennController,9,_Trial_,End,1617177790203,NULL
+1617177798,258b3dce68deec7c2d7f84913eda9534,PennController,7,0,experiment_trial,NULL,PennController,10,_Trial_,Start,1617177790207,NULL
+1617177798,258b3dce68deec7c2d7f84913eda9534,PennController,7,0,experiment_trial,NULL,PennController,10,_Trial_,End,1617177790229,NULL
+1617177798,258b3dce68deec7c2d7f84913eda9534,PennController,8,0,experiment_trial,NULL,PennController,11,_Trial_,Start,1617177790234,NULL
+1617177798,258b3dce68deec7c2d7f84913eda9534,PennController,8,0,experiment_trial,NULL,PennController,11,_Trial_,End,1617177790254,NULL
+1617177798,258b3dce68deec7c2d7f84913eda9534,PennController,9,0,experiment_trial,NULL,PennController,12,_Trial_,Start,1617177790260,NULL
+1617177798,258b3dce68deec7c2d7f84913eda9534,PennController,9,0,experiment_trial,NULL,PennController,12,_Trial_,End,1617177790277,NULL
+1617177798,258b3dce68deec7c2d7f84913eda9534,PennController,10,0,experiment_trial,NULL,PennController,13,_Trial_,Start,1617177790281,NULL
+1617177798,258b3dce68deec7c2d7f84913eda9534,PennController,10,0,experiment_trial,NULL,PennController,13,_Trial_,End,1617177790295,NULL
+1617177798,258b3dce68deec7c2d7f84913eda9534,PennController,11,0,experiment_trial,NULL,PennController,14,_Trial_,Start,1617177790298,NULL
+1617177798,258b3dce68deec7c2d7f84913eda9534,PennController,11,0,experiment_trial,NULL,PennController,14,_Trial_,End,1617177790310,NULL
+1617177798,258b3dce68deec7c2d7f84913eda9534,PennController,12,0,experiment_trial,NULL,PennController,15,_Trial_,Start,1617177790313,NULL
+1617177798,258b3dce68deec7c2d7f84913eda9534,PennController,12,0,experiment_trial,NULL,PennController,15,_Trial_,End,1617177790327,NULL
+1617177798,258b3dce68deec7c2d7f84913eda9534,PennController,13,0,experiment_trial,NULL,PennController,16,_Trial_,Start,1617177790330,NULL
+1617177798,258b3dce68deec7c2d7f84913eda9534,PennController,13,0,experiment_trial,NULL,PennController,16,_Trial_,End,1617177790344,NULL
+1617177798,258b3dce68deec7c2d7f84913eda9534,PennController,14,0,experiment_trial,NULL,PennController,17,_Trial_,Start,1617177790346,NULL
+1617177798,258b3dce68deec7c2d7f84913eda9534,PennController,14,0,experiment_trial,NULL,PennController,17,_Trial_,End,1617177790360,NULL
+1617177798,258b3dce68deec7c2d7f84913eda9534,PennController,15,0,experiment_trial,NULL,PennController,18,_Trial_,Start,1617177790362,NULL
+1617177798,258b3dce68deec7c2d7f84913eda9534,PennController,15,0,experiment_trial,NULL,PennController,18,_Trial_,End,1617177790374,NULL
+1617177798,258b3dce68deec7c2d7f84913eda9534,PennController,16,0,experiment_trial,NULL,PennController,19,_Trial_,Start,1617177790376,NULL
+1617177798,258b3dce68deec7c2d7f84913eda9534,PennController,16,0,experiment_trial,NULL,PennController,19,_Trial_,End,1617177790383,NULL
+1617177798,258b3dce68deec7c2d7f84913eda9534,PennController,19,0,post-ques,NULL,PennController,4,_Trial_,Start,1617177790389,NULL
+1617177798,258b3dce68deec7c2d7f84913eda9534,PennController,19,0,post-ques,NULL,TextInput,notice,Final,,1617177797081,NULL
+1617177798,258b3dce68deec7c2d7f84913eda9534,PennController,19,0,post-ques,NULL,TextInput,about,Final,,1617177797081,NULL
+1617177798,258b3dce68deec7c2d7f84913eda9534,PennController,19,0,post-ques,NULL,TextInput,hard,Final,,1617177797081,NULL
+1617177798,258b3dce68deec7c2d7f84913eda9534,PennController,19,0,post-ques,NULL,TextInput,strategy,Final,,1617177797081,NULL
+1617177798,258b3dce68deec7c2d7f84913eda9534,PennController,19,0,post-ques,NULL,PennController,4,_Trial_,End,1617177797082,NULL
+#
+# Results on Wednesday March 31 2021 08:03:44 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0
+# Design number was non-random = 4
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. age.
+# 14. sex.
+# 15. L2.
+# 16. dom_hand.
+# 17. Comments.
+1617177824,258b3dce68deec7c2d7f84913eda9534,PennController,0,0,welcome,NULL,PennController,0,_Trial_,Start,1617177814681,undefined,undefined,undefined,undefined,NULL
+1617177824,258b3dce68deec7c2d7f84913eda9534,PennController,0,0,welcome,NULL,PennController,0,_Trial_,End,1617177820624,undefined,undefined,undefined,undefined,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1617177824,258b3dce68deec7c2d7f84913eda9534,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1617177820633,NULL
+1617177824,258b3dce68deec7c2d7f84913eda9534,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1617177820651,NULL
+1617177824,258b3dce68deec7c2d7f84913eda9534,PennController,2,0,practice,NULL,PennController,5,_Trial_,Start,1617177820657,NULL
+1617177824,258b3dce68deec7c2d7f84913eda9534,PennController,2,0,practice,NULL,PennController,5,_Trial_,End,1617177820680,NULL
+1617177824,258b3dce68deec7c2d7f84913eda9534,PennController,3,0,practice,NULL,PennController,6,_Trial_,Start,1617177820687,NULL
+1617177824,258b3dce68deec7c2d7f84913eda9534,PennController,3,0,practice,NULL,PennController,6,_Trial_,End,1617177820713,NULL
+1617177824,258b3dce68deec7c2d7f84913eda9534,PennController,4,0,practice,NULL,PennController,7,_Trial_,Start,1617177820723,NULL
+1617177824,258b3dce68deec7c2d7f84913eda9534,PennController,4,0,practice,NULL,PennController,7,_Trial_,End,1617177820749,NULL
+1617177824,258b3dce68deec7c2d7f84913eda9534,PennController,17,0,end_practice,NULL,PennController,2,_Trial_,Start,1617177820757,NULL
+1617177824,258b3dce68deec7c2d7f84913eda9534,PennController,17,0,end_practice,NULL,PennController,2,_Trial_,End,1617177820776,NULL
+1617177824,258b3dce68deec7c2d7f84913eda9534,PennController,5,0,experiment_trial,NULL,PennController,8,_Trial_,Start,1617177820781,NULL
+1617177824,258b3dce68deec7c2d7f84913eda9534,PennController,5,0,experiment_trial,NULL,PennController,8,_Trial_,End,1617177820798,NULL
+1617177824,258b3dce68deec7c2d7f84913eda9534,PennController,6,0,experiment_trial,NULL,PennController,9,_Trial_,Start,1617177820805,NULL
+1617177824,258b3dce68deec7c2d7f84913eda9534,PennController,6,0,experiment_trial,NULL,PennController,9,_Trial_,End,1617177820823,NULL
+1617177824,258b3dce68deec7c2d7f84913eda9534,PennController,7,0,experiment_trial,NULL,PennController,10,_Trial_,Start,1617177820828,NULL
+1617177824,258b3dce68deec7c2d7f84913eda9534,PennController,7,0,experiment_trial,NULL,PennController,10,_Trial_,End,1617177820843,NULL
+1617177824,258b3dce68deec7c2d7f84913eda9534,PennController,8,0,experiment_trial,NULL,PennController,11,_Trial_,Start,1617177820846,NULL
+1617177824,258b3dce68deec7c2d7f84913eda9534,PennController,8,0,experiment_trial,NULL,PennController,11,_Trial_,End,1617177820873,NULL
+1617177824,258b3dce68deec7c2d7f84913eda9534,PennController,9,0,experiment_trial,NULL,PennController,12,_Trial_,Start,1617177820876,NULL
+1617177824,258b3dce68deec7c2d7f84913eda9534,PennController,9,0,experiment_trial,NULL,PennController,12,_Trial_,End,1617177820895,NULL
+1617177824,258b3dce68deec7c2d7f84913eda9534,PennController,10,0,experiment_trial,NULL,PennController,13,_Trial_,Start,1617177820901,NULL
+1617177824,258b3dce68deec7c2d7f84913eda9534,PennController,10,0,experiment_trial,NULL,PennController,13,_Trial_,End,1617177820944,NULL
+1617177824,258b3dce68deec7c2d7f84913eda9534,PennController,11,0,experiment_trial,NULL,PennController,14,_Trial_,Start,1617177820950,NULL
+1617177824,258b3dce68deec7c2d7f84913eda9534,PennController,11,0,experiment_trial,NULL,PennController,14,_Trial_,End,1617177820964,NULL
+1617177824,258b3dce68deec7c2d7f84913eda9534,PennController,12,0,experiment_trial,NULL,PennController,15,_Trial_,Start,1617177820969,NULL
+1617177824,258b3dce68deec7c2d7f84913eda9534,PennController,12,0,experiment_trial,NULL,PennController,15,_Trial_,End,1617177820983,NULL
+1617177824,258b3dce68deec7c2d7f84913eda9534,PennController,13,0,experiment_trial,NULL,PennController,16,_Trial_,Start,1617177820988,NULL
+1617177824,258b3dce68deec7c2d7f84913eda9534,PennController,13,0,experiment_trial,NULL,PennController,16,_Trial_,End,1617177821010,NULL
+1617177824,258b3dce68deec7c2d7f84913eda9534,PennController,14,0,experiment_trial,NULL,PennController,17,_Trial_,Start,1617177821014,NULL
+1617177824,258b3dce68deec7c2d7f84913eda9534,PennController,14,0,experiment_trial,NULL,PennController,17,_Trial_,End,1617177821030,NULL
+1617177824,258b3dce68deec7c2d7f84913eda9534,PennController,15,0,experiment_trial,NULL,PennController,18,_Trial_,Start,1617177821034,NULL
+1617177824,258b3dce68deec7c2d7f84913eda9534,PennController,15,0,experiment_trial,NULL,PennController,18,_Trial_,End,1617177821047,NULL
+1617177824,258b3dce68deec7c2d7f84913eda9534,PennController,16,0,experiment_trial,NULL,PennController,19,_Trial_,Start,1617177821052,NULL
+1617177824,258b3dce68deec7c2d7f84913eda9534,PennController,16,0,experiment_trial,NULL,PennController,19,_Trial_,End,1617177821064,NULL
+1617177824,258b3dce68deec7c2d7f84913eda9534,PennController,19,0,post-ques,NULL,PennController,4,_Trial_,Start,1617177821069,NULL
+1617177824,258b3dce68deec7c2d7f84913eda9534,PennController,19,0,post-ques,NULL,TextInput,notice,Final,,1617177823582,NULL
+1617177824,258b3dce68deec7c2d7f84913eda9534,PennController,19,0,post-ques,NULL,PennController,4,_Trial_,End,1617177823583,NULL
+#
+# Results on Wednesday March 31 2021 08:30:22 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0
+# Design number was non-random = 5
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. age.
+# 14. sex.
+# 15. L2.
+# 16. dom_hand.
+# 17. Comments.
+1617179423,258b3dce68deec7c2d7f84913eda9534,PennController,0,0,welcome,NULL,PennController,0,_Trial_,Start,1617179282039,undefined,undefined,undefined,undefined,NULL
+1617179423,258b3dce68deec7c2d7f84913eda9534,PennController,0,0,welcome,NULL,DropDown,language,Selected,Bitte eine Option ausw&auml;hlen,Never,undefined,undefined,undefined,undefined,Default
+1617179423,258b3dce68deec7c2d7f84913eda9534,PennController,0,0,welcome,NULL,PennController,0,_Trial_,End,1617179356829,undefined,undefined,undefined,undefined,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1617179423,258b3dce68deec7c2d7f84913eda9534,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1617179356836,NULL
+1617179423,258b3dce68deec7c2d7f84913eda9534,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1617179361872,NULL
+1617179423,258b3dce68deec7c2d7f84913eda9534,PennController,2,0,practice,NULL,PennController,6,_Trial_,Start,1617179361883,NULL
+1617179423,258b3dce68deec7c2d7f84913eda9534,PennController,2,0,practice,NULL,Key,after_ctxt1,PressedKey, ,1617179362777,Wait success
+1617179423,258b3dce68deec7c2d7f84913eda9534,PennController,2,0,practice,NULL,Key,after_ctxt2,PressedKey, ,1617179367970,Wait success
+1617179423,258b3dce68deec7c2d7f84913eda9534,PennController,2,0,practice,NULL,Key,after_ctxt22,PressedKey, ,1617179368607,Wait success
+1617179423,258b3dce68deec7c2d7f84913eda9534,PennController,2,0,practice,NULL,PennController,6,_Trial_,End,1617179370493,NULL
+1617179423,258b3dce68deec7c2d7f84913eda9534,PennController,3,0,practice,NULL,PennController,7,_Trial_,Start,1617179370498,NULL
+1617179423,258b3dce68deec7c2d7f84913eda9534,PennController,3,0,practice,NULL,Key,after_ctxt1,PressedKey, ,1617179371438,Wait success
+1617179423,258b3dce68deec7c2d7f84913eda9534,PennController,3,0,practice,NULL,Key,after_ctxt2,PressedKey, ,1617179372019,Wait success
+1617179423,258b3dce68deec7c2d7f84913eda9534,PennController,3,0,practice,NULL,Key,after_ctxt22,PressedKey, ,1617179373027,Wait success
+1617179423,258b3dce68deec7c2d7f84913eda9534,PennController,3,0,practice,NULL,PennController,7,_Trial_,End,1617179375004,NULL
+1617179423,258b3dce68deec7c2d7f84913eda9534,PennController,4,0,practice,NULL,PennController,8,_Trial_,Start,1617179375008,NULL
+1617179423,258b3dce68deec7c2d7f84913eda9534,PennController,4,0,practice,NULL,Key,after_ctxt1,PressedKey, ,1617179375850,Wait success
+1617179423,258b3dce68deec7c2d7f84913eda9534,PennController,4,0,practice,NULL,Key,after_ctxt2,PressedKey, ,1617179376712,Wait success
+1617179423,258b3dce68deec7c2d7f84913eda9534,PennController,4,0,practice,NULL,Key,after_ctxt22,PressedKey, ,1617179377634,Wait success
+1617179423,258b3dce68deec7c2d7f84913eda9534,PennController,4,0,practice,NULL,PennController,8,_Trial_,End,1617179379325,NULL
+1617179423,258b3dce68deec7c2d7f84913eda9534,PennController,17,0,end_practice,NULL,PennController,2,_Trial_,Start,1617179379329,NULL
+1617179423,258b3dce68deec7c2d7f84913eda9534,PennController,17,0,end_practice,NULL,Key,end_pract,PressedKey, ,1617179379864,Wait success
+1617179423,258b3dce68deec7c2d7f84913eda9534,PennController,17,0,end_practice,NULL,PennController,2,_Trial_,End,1617179382876,NULL
+1617179423,258b3dce68deec7c2d7f84913eda9534,PennController,5,0,experiment_trial,NULL,PennController,9,_Trial_,Start,1617179382884,NULL
+1617179423,258b3dce68deec7c2d7f84913eda9534,PennController,5,0,experiment_trial,NULL,Key,after_ctxt1,PressedKey, ,1617179383793,Wait success
+1617179423,258b3dce68deec7c2d7f84913eda9534,PennController,5,0,experiment_trial,NULL,Key,after_ctxt2,PressedKey, ,1617179384681,Wait success
+1617179423,258b3dce68deec7c2d7f84913eda9534,PennController,5,0,experiment_trial,NULL,Key,after_ctxt22,PressedKey, ,1617179385523,Wait success
+1617179423,258b3dce68deec7c2d7f84913eda9534,PennController,5,0,experiment_trial,NULL,PennController,9,_Trial_,End,1617179387099,NULL
+1617179423,258b3dce68deec7c2d7f84913eda9534,PennController,6,0,experiment_trial,NULL,PennController,10,_Trial_,Start,1617179387103,NULL
+1617179423,258b3dce68deec7c2d7f84913eda9534,PennController,6,0,experiment_trial,NULL,Key,after_ctxt1,PressedKey, ,1617179387868,Wait success
+1617179423,258b3dce68deec7c2d7f84913eda9534,PennController,6,0,experiment_trial,NULL,Key,after_ctxt2,PressedKey, ,1617179388685,Wait success
+1617179423,258b3dce68deec7c2d7f84913eda9534,PennController,6,0,experiment_trial,NULL,Key,after_ctxt22,PressedKey, ,1617179389512,Wait success
+1617179423,258b3dce68deec7c2d7f84913eda9534,PennController,6,0,experiment_trial,NULL,PennController,10,_Trial_,End,1617179392641,NULL
+1617179423,258b3dce68deec7c2d7f84913eda9534,PennController,7,0,experiment_trial,NULL,PennController,11,_Trial_,Start,1617179392644,NULL
+1617179423,258b3dce68deec7c2d7f84913eda9534,PennController,7,0,experiment_trial,NULL,Key,after_ctxt1,PressedKey, ,1617179393803,Wait success
+1617179423,258b3dce68deec7c2d7f84913eda9534,PennController,7,0,experiment_trial,NULL,Key,after_ctxt2,PressedKey, ,1617179394589,Wait success
+1617179423,258b3dce68deec7c2d7f84913eda9534,PennController,7,0,experiment_trial,NULL,Key,after_ctxt22,PressedKey, ,1617179395376,Wait success
+1617179423,258b3dce68deec7c2d7f84913eda9534,PennController,7,0,experiment_trial,NULL,PennController,11,_Trial_,End,1617179397824,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. type.
+# 14. Comments.
+1617179423,258b3dce68deec7c2d7f84913eda9534,PennController,18,0,break,NULL,PennController,3,_Trial_,Start,1617179397826,break,NULL
+1617179423,258b3dce68deec7c2d7f84913eda9534,PennController,18,0,break,NULL,Key,end_break,PressedKey, ,1617179399195,break,Wait success
+1617179423,258b3dce68deec7c2d7f84913eda9534,PennController,18,0,break,NULL,PennController,3,_Trial_,End,1617179402201,break,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1617179423,258b3dce68deec7c2d7f84913eda9534,PennController,8,0,experiment_trial,NULL,PennController,12,_Trial_,Start,1617179402207,NULL
+1617179423,258b3dce68deec7c2d7f84913eda9534,PennController,8,0,experiment_trial,NULL,Key,after_ctxt1,PressedKey, ,1617179403081,Wait success
+1617179423,258b3dce68deec7c2d7f84913eda9534,PennController,8,0,experiment_trial,NULL,Key,after_ctxt2,PressedKey, ,1617179403902,Wait success
+1617179423,258b3dce68deec7c2d7f84913eda9534,PennController,8,0,experiment_trial,NULL,Key,after_ctxt22,PressedKey, ,1617179404795,Wait success
+1617179423,258b3dce68deec7c2d7f84913eda9534,PennController,8,0,experiment_trial,NULL,PennController,12,_Trial_,End,1617179406656,NULL
+1617179423,258b3dce68deec7c2d7f84913eda9534,PennController,9,0,experiment_trial,NULL,PennController,13,_Trial_,Start,1617179406659,NULL
+1617179423,258b3dce68deec7c2d7f84913eda9534,PennController,9,0,experiment_trial,NULL,Key,after_ctxt1,PressedKey, ,1617179407241,Wait success
+1617179423,258b3dce68deec7c2d7f84913eda9534,PennController,9,0,experiment_trial,NULL,Key,after_ctxt2,PressedKey, ,1617179408202,Wait success
+1617179423,258b3dce68deec7c2d7f84913eda9534,PennController,9,0,experiment_trial,NULL,Key,after_ctxt22,PressedKey, ,1617179409064,Wait success
+1617179423,258b3dce68deec7c2d7f84913eda9534,PennController,9,0,experiment_trial,NULL,PennController,13,_Trial_,End,1617179410706,NULL
+1617179423,258b3dce68deec7c2d7f84913eda9534,PennController,10,0,experiment_trial,NULL,PennController,14,_Trial_,Start,1617179410709,NULL
+1617179423,258b3dce68deec7c2d7f84913eda9534,PennController,10,0,experiment_trial,NULL,Key,after_ctxt1,PressedKey, ,1617179411546,Wait success
+1617179423,258b3dce68deec7c2d7f84913eda9534,PennController,10,0,experiment_trial,NULL,Key,after_ctxt2,PressedKey, ,1617179412437,Wait success
+1617179423,258b3dce68deec7c2d7f84913eda9534,PennController,10,0,experiment_trial,NULL,Key,after_ctxt22,PressedKey, ,1617179413298,Wait success
+1617179423,258b3dce68deec7c2d7f84913eda9534,PennController,10,0,experiment_trial,NULL,PennController,14,_Trial_,End,1617179414856,NULL
+1617179423,258b3dce68deec7c2d7f84913eda9534,PennController,20,0,post-ques,NULL,PennController,5,_Trial_,Start,1617179414859,NULL
+1617179423,258b3dce68deec7c2d7f84913eda9534,PennController,20,0,post-ques,NULL,TextInput,notice,Final,,1617179421784,NULL
+1617179423,258b3dce68deec7c2d7f84913eda9534,PennController,20,0,post-ques,NULL,TextInput,about,Final,,1617179421784,NULL
+1617179423,258b3dce68deec7c2d7f84913eda9534,PennController,20,0,post-ques,NULL,TextInput,hard,Final,,1617179421784,NULL
+1617179423,258b3dce68deec7c2d7f84913eda9534,PennController,20,0,post-ques,NULL,TextInput,strategy,Final,,1617179421784,NULL
+1617179423,258b3dce68deec7c2d7f84913eda9534,PennController,20,0,post-ques,NULL,PennController,5,_Trial_,End,1617179421785,NULL
+#
+# Results on Wednesday April 07 2021 08:04:21 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:87.0) Gecko/20100101 Firefox/87.0
+# Design number was non-random = 6
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. age.
+# 14. sex.
+# 15. L2.
+# 16. dom_hand.
+# 17. Comments.
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,0,0,welcome,NULL,PennController,0,_Trial_,Start,1617782425149,20,weiblich,Ja,rechte Hand,NULL
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,0,0,welcome,NULL,DropDown,language,Selected,Ja,1617782458594,20,weiblich,Ja,rechte Hand,0
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,0,0,welcome,NULL,PennController,0,_Trial_,End,1617782460486,20,weiblich,Ja,rechte Hand,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,1,0,instructions,NULL,PennController,1,_Trial_,Start,1617782460490,NULL
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,1,0,instructions,NULL,PennController,1,_Trial_,End,1617782520944,NULL
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,2,0,practice,NULL,PennController,6,_Trial_,Start,1617782520948,NULL
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,2,0,practice,NULL,Key,after_ctxt1,PressedKey, ,1617782525542,Wait success
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,2,0,practice,NULL,Key,after_ctxt2,PressedKey, ,1617782530480,Wait success
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,2,0,practice,NULL,Key,after_ctxt22,PressedKey, ,1617782534475,Wait success
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,2,0,practice,NULL,PennController,6,_Trial_,End,1617782543313,NULL
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,3,0,practice,NULL,PennController,7,_Trial_,Start,1617782543316,NULL
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,3,0,practice,NULL,Key,after_ctxt1,PressedKey, ,1617782545262,Wait success
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,3,0,practice,NULL,Key,after_ctxt2,PressedKey, ,1617782546753,Wait success
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,3,0,practice,NULL,Key,after_ctxt22,PressedKey, ,1617782548566,Wait success
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,3,0,practice,NULL,PennController,7,_Trial_,End,1617782551619,NULL
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,4,0,practice,NULL,PennController,8,_Trial_,Start,1617782551624,NULL
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,4,0,practice,NULL,Key,after_ctxt1,PressedKey, ,1617782558430,Wait success
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,4,0,practice,NULL,Key,after_ctxt2,PressedKey, ,1617782559868,Wait success
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,4,0,practice,NULL,Key,after_ctxt22,PressedKey, ,1617782564366,Wait success
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,4,0,practice,NULL,PennController,8,_Trial_,End,1617782567173,NULL
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,17,0,end_practice,NULL,PennController,2,_Trial_,Start,1617782567176,NULL
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,17,0,end_practice,NULL,Key,end_pract,PressedKey, ,1617782569158,Wait success
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,17,0,end_practice,NULL,PennController,2,_Trial_,End,1617782572164,NULL
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,5,0,experiment_trial,NULL,PennController,9,_Trial_,Start,1617782572168,NULL
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,5,0,experiment_trial,NULL,Key,after_ctxt1,PressedKey, ,1617782575083,Wait success
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,5,0,experiment_trial,NULL,Key,after_ctxt2,PressedKey, ,1617782578461,Wait success
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,5,0,experiment_trial,NULL,Key,after_ctxt22,PressedKey, ,1617782581017,Wait success
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,5,0,experiment_trial,NULL,PennController,9,_Trial_,End,1617782585068,NULL
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,6,0,experiment_trial,NULL,PennController,10,_Trial_,Start,1617782585072,NULL
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,6,0,experiment_trial,NULL,Key,after_ctxt1,PressedKey, ,1617782586800,Wait success
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,6,0,experiment_trial,NULL,Key,after_ctxt2,PressedKey, ,1617782588694,Wait success
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,6,0,experiment_trial,NULL,Key,after_ctxt22,PressedKey, ,1617782591055,Wait success
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,6,0,experiment_trial,NULL,PennController,10,_Trial_,End,1617782593420,NULL
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,7,0,experiment_trial,NULL,PennController,11,_Trial_,Start,1617782593424,NULL
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,7,0,experiment_trial,NULL,Key,after_ctxt1,PressedKey, ,1617782595198,Wait success
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,7,0,experiment_trial,NULL,Key,after_ctxt2,PressedKey, ,1617782597227,Wait success
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,7,0,experiment_trial,NULL,Key,after_ctxt22,PressedKey, ,1617782600382,Wait success
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,7,0,experiment_trial,NULL,PennController,11,_Trial_,End,1617782604596,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. type.
+# 14. Comments.
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,18,0,break,NULL,PennController,3,_Trial_,Start,1617782604599,break,NULL
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,18,0,break,NULL,Key,end_break,PressedKey, ,1617782608101,break,Wait success
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,18,0,break,NULL,PennController,3,_Trial_,End,1617782611106,break,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,8,0,experiment_trial,NULL,PennController,12,_Trial_,Start,1617782611109,NULL
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,8,0,experiment_trial,NULL,Key,after_ctxt1,PressedKey, ,1617782613514,Wait success
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,8,0,experiment_trial,NULL,Key,after_ctxt2,PressedKey, ,1617782615559,Wait success
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,8,0,experiment_trial,NULL,Key,after_ctxt22,PressedKey, ,1617782617959,Wait success
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,8,0,experiment_trial,NULL,PennController,12,_Trial_,End,1617782620239,NULL
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,9,0,experiment_trial,NULL,PennController,13,_Trial_,Start,1617782620243,NULL
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,9,0,experiment_trial,NULL,Key,after_ctxt1,PressedKey, ,1617782622312,Wait success
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,9,0,experiment_trial,NULL,Key,after_ctxt2,PressedKey, ,1617782626040,Wait success
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,9,0,experiment_trial,NULL,Key,after_ctxt22,PressedKey, ,1617782627919,Wait success
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,9,0,experiment_trial,NULL,PennController,13,_Trial_,End,1617782630950,NULL
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,10,0,experiment_trial,NULL,PennController,14,_Trial_,Start,1617782630954,NULL
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,10,0,experiment_trial,NULL,Key,after_ctxt1,PressedKey, ,1617782632961,Wait success
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,10,0,experiment_trial,NULL,Key,after_ctxt2,PressedKey, ,1617782637229,Wait success
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,10,0,experiment_trial,NULL,Key,after_ctxt22,PressedKey, ,1617782639437,Wait success
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,10,0,experiment_trial,NULL,PennController,14,_Trial_,End,1617782642683,NULL
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,20,0,post-ques,NULL,PennController,5,_Trial_,Start,1617782642685,NULL
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,20,0,post-ques,NULL,TextInput,notice,First,,1617782647063,-
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,20,0,post-ques,NULL,TextInput,about,First,,1617782650441,-
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,20,0,post-ques,NULL,TextInput,hard,First,,1617782655423,-
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,20,0,post-ques,NULL,TextInput,strategy,First,,1617782659008,-
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,20,0,post-ques,NULL,TextInput,notice,Final,-,1617782660417,NULL
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,20,0,post-ques,NULL,TextInput,about,Final,-,1617782660417,NULL
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,20,0,post-ques,NULL,TextInput,hard,Final,-,1617782660418,NULL
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,20,0,post-ques,NULL,TextInput,strategy,Final,-,1617782660418,NULL
+1617782662,501b2a7beed6e02c2b7b463ddd2e26a8,PennController,20,0,post-ques,NULL,PennController,5,_Trial_,End,1617782660419,NULL
